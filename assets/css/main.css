@@ -1646,7 +1646,7 @@ input, select, textarea {
 
 				.box.feature1 header.second:before {
 					font-size: 48px;
-					position: absolute;
+					position: relative;
 					right: 100%;
 					margin-right: 18px;
 					opacity: 0.5;
