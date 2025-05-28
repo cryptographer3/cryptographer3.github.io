@@ -2389,6 +2389,8 @@ input, select, textarea {
 			}
 
 			.box.spotlight {
+				width: 100%;
+				text-align: center;
 				margin-top: 2em;
 			}
 
