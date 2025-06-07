@@ -204,25 +204,6 @@ input, select, textarea {
 		margin: 0 0 0.25em 0;
 	}
 
-/* Row Orderly */
-
-	.orderly {
-		display: flex;
-		justify-content: space-between;
-		gap: 20px;
-	}
-
-/* Flexi container */
-
-	.pane {
-		flex: 1;
-		margin: 0 10px;
-		background-color: #ccc;
-		padding: 20px;
-		text-align: center;
-		gap: 20px;
-	}
-
 /* Container */
 
 	.container {
@@ -1665,7 +1646,7 @@ input, select, textarea {
 
 				.box.feature1 header.second:before {
 					font-size: 48px;
-					position: relative;
+					position: absolute;
 					right: 100%;
 					margin-right: 18px;
 					opacity: 0.5;
@@ -2401,8 +2382,6 @@ input, select, textarea {
 			}
 
 			.box.spotlight {
-				width: 100%;
-				text-align: center;
 				margin-top: 2em;
 			}
 
