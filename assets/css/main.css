@@ -1634,9 +1634,9 @@ input, select, textarea {
 			.box.feature1 header.second {
 				position: relative;
 				display: inline-block;
-				text-align: left;
+				text-align: center;
 				margin: 0 auto;
-				white-space: nowrap;
+				white-space: normal;
 				left: 24px;
 			}
 
