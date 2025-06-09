@@ -1535,6 +1535,7 @@ input, select, textarea {
 		display: block;
 		text-transform: uppercase;
 		font-weight: 700;
+		white-space: normal;
 		letter-spacing: 0.065em;
 		font-size: 0.9em;
 		color: #696969;
