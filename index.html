@@ -214,7 +214,13 @@
 														<dt>WWW</dt>
 														<dd><a href="#">https://completetechsupport.com.au</a></dd>
 														<dt>Email</dt>
-														<dd><a href="mailto:complete6164@gmail.com">complete6164@gmail.com</a></dd>
+														<dd><a href="#" id="mailcopy" onclick="
+																const el = document.getElementById('copyThis');
+																navigator.clipboard.writeText(el.innerText || el.textContent)
+																	.then(() => alert('Copied!'))
+																	.catch(err => alert('Failed: ' + err));
+																return false;
+																">complete6164@gmail.com</a></dd>
 														<dt>Address</dt>
 														<dd>
 															28 Willis Terrace<br />
