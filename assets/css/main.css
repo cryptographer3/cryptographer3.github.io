@@ -1923,10 +1923,8 @@ input, select, textarea {
 		}
 
 		#header h1 {
-			position: absolute;
-			left: 1.75em;
-			top: 50%;
-			margin-top: -0.65em;
+			position: relative;
+			text-align: center;
 			font-size: 1.5em;
 			color: #fff;
 		}
