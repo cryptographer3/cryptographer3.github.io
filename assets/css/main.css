@@ -1923,17 +1923,6 @@ input, select, textarea {
 			text-align: center;
 		}
 
-		#header img {
-			display: inline-block;
-			position: absolute;
-  			top: 50%;
-  			left: 30%;
-			width: 30px;
-			height: 30px;
-  			/*transform: translate(-50%, -50%);*/
-			font-size: 2em;
-		}
-
 		#header h1 {
 			display: inline-block;
 			position: absolute;
