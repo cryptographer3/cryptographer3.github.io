@@ -2262,13 +2262,13 @@ input, select, textarea {
 		/* Header */
 
 			#header, #nav {
-				display: none;
+				display: block;
 			}
 
 		/* Wrappers */
 
 			#header-wrapper {
-				display: block;
+				display: none;
 			}
 
 			.homepage #header-wrapper {
