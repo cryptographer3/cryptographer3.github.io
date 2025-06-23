@@ -2268,7 +2268,7 @@ input, select, textarea {
 		/* Wrappers */
 
 			#header-wrapper {
-				display: none;
+				display: block;
 			}
 
 			.homepage #header-wrapper {
