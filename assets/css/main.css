@@ -2262,7 +2262,7 @@ input, select, textarea {
 		/* Header */
 
 			#header, #nav {
-				display: inline-block;
+				display: none;
 			}
 
 		/* Wrappers */
