@@ -1927,8 +1927,8 @@ input, select, textarea {
 			display: inline-block;
 			position: absolute;
   			top: 50%;
-  			left: 40%;
-  			transform: translate(-60%, -50%);
+  			left: 30%;
+  			transform: translate(-70%, -50%);
 			font-size: 1.5em;
 			color: #fff;
 		}
